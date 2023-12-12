@@ -16,7 +16,6 @@ Langage utilisé : Python.
 - `main.py` : entrée du programme ; exécuter ce script pour lancer le programme.
 - `bitwise.py` : fichier de fonctions d'opérations bit à bit sur des images.
 - `humidite_relative.py` : fichier de fonction qui retourne le masque d'humidité relative.
-- `humidite_relative.py` : fichier de fonction qui retourne le masque d'humidité relative.
 - `humidite_sol.py` : fichier de fonction qui retourne le masque d'humidité du sol.
 - `precipitation.py` : fichier de fonction qui retourne le masque des précipitations.
 - `precipitation_nuage.py` : fichier de fonction qui retourne le masque des précipitations et des nuages.
