@@ -29,7 +29,7 @@ def dipslay_result(img, mask):
 # MAIN
 #===========================================================
 
-datapath = './data/'
+datapath = './data/12-12-23/'
 img_humidite_sol = cv2.imread(datapath + 'humidite-sol.jpg')
 img_humidite_relative = cv2.imread(datapath + 'humidite-relative.jpg')
 img_precipitation = cv2.imread(datapath + 'precipitation.jpg')
